@@ -1,0 +1,23 @@
+{
+  "name": "automatic-tests",
+  "version": "1.0.0",
+  "description": "I am test tests here",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorLebedev/Automatic-Tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorLebedev/Automatic-Tests/issues"
+  },
+  "homepage": "https://github.com/IgorLebedev/Automatic-Tests#readme"
+}
